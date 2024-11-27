@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SpigrootDev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++, Java
+- 📫 How to reach me: internetmax08@gmail.com
+- ⚡ Fun fact: I can speak HTML
