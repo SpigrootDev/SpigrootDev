@@ -1,4 +1,3 @@
--JUSTI IF ITS YOU; THEN GO INTO THE REPOSITORYS
 - 👋 Hi, I’m @SpigrootDev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++, Java
